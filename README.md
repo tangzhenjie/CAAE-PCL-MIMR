@@ -51,5 +51,5 @@ python ./CVAEPCL/MIMR/MIMR_run.py
 python ./CVAEPCL/MAIN-MIMR/train_step1.py
 python ./CVAEPCL/MAIN-MIMR/train_step2.py
 ~~~
-
-
+## LICENSE
+MIT License Copyright (c) 2024 Zhenjie Tang
